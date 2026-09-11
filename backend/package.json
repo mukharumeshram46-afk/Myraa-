@@ -1,0 +1,17 @@
+{
+  "name": "myraa-backend",
+  "version": "2.0.0",
+  "description": "Node.js backend WebSocket hub & Gemini Live API bridge for MYRAA AI Assistant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "^0.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "ws": "^8.17.0"
+  }
+}

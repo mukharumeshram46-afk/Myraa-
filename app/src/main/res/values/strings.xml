@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MYRAA</string>
+    <string name="accessibility_service_description">MYRAA Native AI Copilot service allows voice-commanded screen navigation, element clicks, automated typing, and UI interaction on behalf of Piyush.</string>
+</resources>

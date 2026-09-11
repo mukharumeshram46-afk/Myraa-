@@ -1,0 +1,6 @@
+{
+  "name": "MYRAA",
+  "description": "MYRAA AI Assistant - Voice companion & native Android system controller powered by Gemini Live",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
